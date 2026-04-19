@@ -1,17 +1,16 @@
+# Banking System in Java
 
-#  Sistema Bancário em Java
+Simple console project developed in Java.
 
-Projeto simples de console desenvolvido em Java.
+## Features
+- Check balance
+- Receive funds
+- Transfer funds
+- Interactive menu
 
-## Funcionalidades
-- Consultar saldo
-- Receber valores
-- Transferir valores
-- Menu interativo
-
-## Tecnologias
+## Technologies
 - Java
-- Programação Orientada a Objetos
+- Object-Oriented Programming
 
-## Autor
+## Author
 Nicolas Goulart

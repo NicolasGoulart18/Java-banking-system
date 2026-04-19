@@ -13,7 +13,6 @@ public class Menu {
 
         System.out.print("Digite o saldo inicial: ");
         conta.saldo = scanner.nextDouble();
-        conta.consultarSaldo();
         System.out.println("*****************************************");
         System.out.println("Dados iniciais do cliente:");
         System.out.println("");
